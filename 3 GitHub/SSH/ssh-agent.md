@@ -49,3 +49,5 @@ Füge in einem Terminalfenster ohne erweiterte Rechte deinen privaten SSH-Schlü
 ```powershell
 ssh-add c:/Users/YOU/.ssh/id_ed25519
 ```
+
+#SSH #SSH-Agent #SSH-Key 

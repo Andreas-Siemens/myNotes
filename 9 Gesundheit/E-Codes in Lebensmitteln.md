@@ -47,3 +47,4 @@ Bei Guanylat und Glutamat aus der E600-Reihe, E605 – ☠️Nervengift☠️
 **Aluminium im Trinkwasser:**
 Wasserwerke verwenden Aluminium als Flockungsmittel.
 
+#E-Codes #Lebensmittel
