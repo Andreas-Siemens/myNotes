@@ -1,4 +1,4 @@
-#LabVIEW, #FGV
+#LabVIEW #FGV
 Eine funktionale globale Variable (FGV) ist ein häufig verwendetes Entwurfsmuster. Eine FGV ist ein nicht ablaufendes VI mit einer while-Schleife, die einmal durchläuft und über ein nicht initialisiertes Schieberegister verfügt. Der Zweck dieser Konstruktion besteht darin, Daten zwischen aufeinanderfolgenden Aufrufen der FGV zu speichern.
 
 Verwende eine funktionale globale Variable (FGV), um zwischen zwei parallelen Prozessschleifen zu kommunizieren, die in verschiedenen VIs unter demselben Ziel enthalten sind, und verwende eine FGV, um parallele Schleifen mit einer "Stopp"-Schaltfläche anzuhalten. Die "funktionale" Natur der FGV bedeutet, dass Du zusätzliche Funktionen erstellen kannst, die über die einer einfachen globalen Variablen hinausgehen, z. B. Zählungen und Berechnungen, die mit dem gespeicherten Wert arbeiten.

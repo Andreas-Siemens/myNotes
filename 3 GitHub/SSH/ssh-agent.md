@@ -1,6 +1,7 @@
 ## Manueller Start
 
 In einem neuen PowerShell-Fenster mit Administratorrechten die folgenden Befehle eingeben:
+
 ```powershell
 # start the ssh-agent in the background
 Get-Service -Name ssh-agent | Set-Service -StartupType Manual
@@ -9,6 +10,7 @@ Start-Service ssh-agent
 ## Automatischer Start
 
 Du kannst den ssh-agent automatisch starten, wenn Du die Bash oder Git-Shell öffnest. Kopiere die folgenden Zeilen und fügen sie in deine ~/.profile- oder ~/.bashrc-Datei in der Git-Shell ein:
+
 ```bash
 env=~/.ssh/agent.env
 
@@ -32,7 +34,9 @@ fi
 
 unset env
 ```
+
 Wenn Du nun Git Bash zum ersten Mal ausführst, wirst Du zur Eingabe deiner Passphrase aufgefordert:
+
 ```shell
 > Initializing new SSH agent...
 > succeeded
@@ -46,6 +50,7 @@ Wenn Du nun Git Bash zum ersten Mal ausführst, wirst Du zur Eingabe deiner Pass
 ## SSH Schlüssel hinzufügen
 
 Füge in einem Terminalfenster ohne erweiterte Rechte deinen privaten SSH-Schlüssel zum ssh-agent hinzu:
+
 ```powershell
 ssh-add c:/Users/YOU/.ssh/id_ed25519
 ```
