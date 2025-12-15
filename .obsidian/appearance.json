@@ -1,4 +1,8 @@
 {
-  "cssTheme": "Border",
-  "accentColor": "#4758c2"
+  "cssTheme": "GitHub Theme",
+  "accentColor": "#4758c2",
+  "enabledCssSnippets": [
+    "books"
+  ],
+  "showRibbon": true
 }

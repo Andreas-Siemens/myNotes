@@ -54,5 +54,32 @@ Füge in einem Terminalfenster ohne erweiterte Rechte deinen privaten SSH-Schlü
 ```powershell
 ssh-add c:/Users/YOU/.ssh/id_ed25519
 ```
+## SSH Schlüssel anzeigen
 
-#SSH #SSH-Agent #SSH-Key 
+```powershell
+ssh-add -l
+```
+## Schlüssel löschen
+
+Einen spezifischen Schlüssel entfernen:
+```powershell
+ssh-add -d $env:USERPROFILE\.ssh\my_key.pub
+```
+Alle Schlüssel vom `ssh-agent` löschen:
+```powershell
+ssh-add -D
+```
+
+## Verbindung testen
+
+```shell
+# Verbindung zu Github testen
+ssh -T git@github.com
+
+# Verbindung zu Gitlab testen
+ssh -T git@gitlab.com
+```
+
+
+---
+#SSH #SSH-Agent #SSH-Key

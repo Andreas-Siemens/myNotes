@@ -18,4 +18,7 @@ $ ssh-keygen -p -f ~/.ssh/id_ed25519
 > Your identification has been saved with the new passphrase.
 ```
 
+Weitere Infos:
+[How to use SSH with Git and ssh-agent on Windows](https://darraghoriordan.medium.com/how-to-use-ssh-with-git-and-ssh-agent-on-windows-7aeb1f64724))
+
 #SSH  #SSH-Key 

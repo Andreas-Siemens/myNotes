@@ -33,16 +33,32 @@ E131, E142, E210, E211, E213, E214, E215, E216, E217, E239
 
 Bei Guanylat und Glutamat aus der E600-Reihe, E605 – ☠️Nervengift☠️
 
+## Achtung
+
+Auf diese Zusätze besonders bei folgenden Lebensmitteln achten: E123/E110. 
+
+- Gummibärchen, 
+- TREETS
+- SMARTIES
+- HARIBO Weingummi
+- Schokolinsen
+- ZOTTSahnepudding
+- IGLO-Fischstäbchen
+- KRAFT-Dorahm mit Creme-Fraiche
+- KRAFT-Salami, Streichkäse
+- Vanille-Pudding E102, E110
+- Fertigsoßen aller Art. 
+
 ## Aluminium
 
-* E173 (Farbstoff Aluminium), 
-* E520 (Stabilisatoren Aluminiumsaulfat) , 
-* E521 (Aluminiumnatriumsulfat), 
-* E523 (Aluminiumammoniumsulfat),
-* E554 (Trennmittel Kieselsalze Natriumaluminiumsilikat), 
-* E555 (Kaliumaluminiumsilikat), 
-* E556 (Calciumaluminiumsilikat), 
-* E598 (Calciumaluminat).
+* E173 (Farbstoff Aluminium)
+* E520 (Stabilisatoren Aluminiumsaulfat)
+* E521 (Aluminiumnatriumsulfat)
+* E523 (Aluminiumammoniumsulfat)
+* E554 (Trennmittel Kieselsalze Natriumaluminiumsilikat)
+* E555 (Kaliumaluminiumsilikat)
+* E556 (Calciumaluminiumsilikat)
+* E598 (Calciumaluminat)
 
 **Aluminium im Trinkwasser:**
 Wasserwerke verwenden Aluminium als Flockungsmittel.
